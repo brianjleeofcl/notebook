@@ -1,0 +1,289 @@
+touch notes.txt
+ll
+rm fish_notes.backup fish_notes.txt sorted_notes.txt 
+cd projects/week01/notebook/
+atom ~/projects/week01/clmystery/
+javascripting
+javascripting verify array-filtering.js 
+touch array-filtering.js
+javascripting verify arrays.js 
+touch arrays.js
+javascripting verify if-statement.js 
+touch if-statement.js
+javascripting verify for-loop.js 
+touch for-loop.js
+javascripting verify number-to-string.js 
+touch number-to-string.js
+javascripting verify rounding-numbers.js 
+touch rounding-numbers.js
+rm rounding-numbers rounding-numbers.js
+touch rounding-numbers
+javascripting verify numbers.js 
+atom numbers.js 
+touch numbers.js
+cd projects/week01/javascripting/
+..
+javascripting verify revising-strings.js 
+atom revising-strings.js 
+touch revising-strings.js
+cd javascripting/
+~
+grep -l "Jeremy Bowers" memberships/*
+grep -l "Jeremy Bowers" mystery/memberships/*
+grep -l "Joe Germuska" memberships/*
+cat interviews/interview-29741223 
+head -n 275 streets/Plainfield_Street | tail -n 1
+grep "Joe Germuska" people 
+grep -A 6 "L337" vehicles | grep -A 5 "Honda" | grep -A 4 "Blue"
+grep -A 6 "L337" vehicles | grep -A 6 "Honda" | grep -A 6 "Blue"
+grep -A 6 "L337" vehicles
+cat interviews/interview-699607 
+head -n 179 streets/Buckingham_Place | tail -n 1
+head -n 38 streets/Buckingham_Place | tail -n 1
+cat interviews/interview-47246024 
+head -n 40 streets/Hart_Place | tail -n 1
+grep Annabel people
+grep CLUE crimescene 
+clear
+less ../hint3
+less ../hint2
+less ../hint1
+less ../instructions 
+less crimescene 
+ll interviews/
+atom ../cheatsheet.md 
+cd mystery/
+cd projects/week01/clmystery/
+man egrep
+man grep
+grep -l "Jeremy Bowers" mystery/memberships/AAA 
+grep -l "Jeremy Bowers" mystery/memberships/
+echo "Jeremy Bowers" | md5 | grep -qif /dev/stdin encoded; and echo CORRECT\! GREAT WORK, GUMSHOE.; or echo SORRY, TRY AGAIN.
+echo "Jeremy Bowers" | md5 | grep -qif /dev/stdin encoded 
+cat solution
+echo "Jeremy Bowers"
+less solution
+cat Museum_of_Bash_History | grep "Jeremy Bowers"
+cat Terminal_City_Library | grep "Jeremy Bowers"
+cat Delta_SkyMiles | grep "Jeremy Bowers"
+cat AAA|grep "Jeremy Bowers"
+grep "Jeremy Bowers"
+less AAA
+cd memberships/
+cat vehicles | grep -C 4 "Jeremy Bowers"
+cat vehicles | grep -A 6 "Jeremy Bowers"
+less vehicles 
+less LICENSE.md 
+ll memberships/
+less interviews/interview-9620713 
+less interviews/interview-29741223 
+less interviews/interview-1767435 
+head -n 284 streets/Dunstable_Road | tail -n 1
+head -n 145 streets/Claybourne_Street | tail -n 1
+cat people | grep "Jacqui"
+cat people | grep "Jeremy Bowers"
+cat people | grep "Joe Germuska"
+cat people | grep "Heather Billings"
+cat people | grep "Aron Pilhofer"
+cat people | grep -A 1 "Erika Owens"
+cat people | grep "Ericka Owens"
+head -n 20 people
+cat vehicles | grep -A 3 L337
+less ../hint7
+cat vehicles | grep L337 | head -n 3
+man head
+less ../hint6
+cat vehicles | grep L337
+head -n 20 vehicles 
+less interviews/interview-699607 
+less interviews/interview-47246024 
+cat hint5
+less Hart_Place 
+cd streets/
+cd str
+streets
+less hint5
+less hint4
+less hint3
+less hint2
+less hint1
+cat people | grep Annabel
+less memberships/aaa
+less people
+cat crimescene | grep CLUE
+less instructions 
+less README.md 
+cat README.md 
+cd clmystery/
+git clone https://github.com/brianjleeofcl/clmystery.git
+cp fish_notes.txt fish_notes.backup 
+mv notes.txt fish_notes.txt
+cat notes.txt | sort>sorted_notes.txt
+cat notes.txt | sort
+history >>notes.txt 
+less notes.txt 
+cat notes.txt 
+history
+rm notes.txt
+kkkkk
+la
+rm notes.txt 
+ls
+cd notebook/
+mkdir notebook
+cd projects/week01
+which help
+which which
+which node
+which git
+man git
+help
+echo git
+git status
+cd projects/week01/brianjleeofcl.surge.sh/
+cd
+/
+cd site_perl/
+cd perl5/
+cd lib
+open tap_migrations.json 
+cd Taps/homebrew/homebrew-core/
+cd Library/
+man brew
+open brew.1
+cd manpages/
+cd Homebrew/
+open todo
+open LICENSE 
+cd 1.7.0/
+cd tree
+cd Cellar/
+cd local
+cd usr
+usr
+cd net
+cd /
+la /
+pwd
+cd..
+cd/
+tree -L 2 ~
+tree -L 1 ~
+tree ~/music
+tree ~
+brew install tree
+echo /
+echo ..
+echo .
+echo ~
+open .atom/
+open .a
+open .Trash/
+la .
+open .
+ls -R /
+ls -R
+ls -rf
+ls -f
+ls -a
+man ls
+la ..
+la .config
+ll -a .config
+ll .config
+ll -a
+ll /
+ls -lh /
+ls -lh
+ls -l
+cd WDI\ Precourse\ work/
+cd ~
+./
+.
+groups
+whoami
+function fish_title;end;
+mv fish_prompt.fish.backup fish_prompt.fish
+mv fish_prompt.fish fish_prompt.fish.backup
+cd functions/
+cd fish/
+cd .config/
+atom .config/fish/
+atom fish
+cd/fish
+cd fish
+dir
+cd local/bin/
+cd local/bin/fish
+cd bin
+bin
+usr/lib/
+surge
+git commit -m 'Add CNAME'
+git add CNAME
+touch CNAME
+git commit -m 'Add a small test webpage'
+git add index.html 
+open index.html 
+atom .
+touch index.html
+git init
+cd brianjleeofcl.surge.sh/
+mkdir brianjleeofcl.surge.sh
+cd ~/projects/week01/
+mkdir -p ~/projects/week01
+mkdir ~/projects/week01
+surge -V
+npm install -g surge
+rm ~/Desktop/test.js 
+node ~/Desktop/test.js
+atom ~/Desktop/test.js
+node
+node -v
+brew install node
+curl -fsSL https://git.io/vXOvh | sh
+cat ~/.gitconfig 
+git config --global user.email 'brianjleeofcl@gmail.com'
+git config --global user.name 'Brian Lee'
+brew doctor
+git --version
+brew install git
+echo $PATH 
+which echo
+atom $PATH 
+ls usr/local/bin
+which brew
+echo $EDITOR
+atom ~/.config/fish/config.fish
+atom ~/Downloads/
+brew info fish
+brew info
+fish_update_completions 
+curl -fsSL https://git.io/vXOeC | ruby
+cd brianlee/
+cd users
+cd lib/
+Applications/
+etc
+echo
+brew install fish
+brew update
+javascripting verify string-length.js
+javascripting verify strings-length.js
+touch string-length.js
+javascripting verify strings.js 
+cd brianlee/javascripting/
+touch string.js
+javascripting verify variables.js 
+touch variables.js
+javascripting verify introduction.js 
+touch introduction.js
+mkdir javascripting
+javascripting 
+npm install --global javascripting
+exit
+brew cleanup
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+uname
+ds
+dl
