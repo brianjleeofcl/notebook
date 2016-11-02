@@ -1,0 +1,14 @@
+git init
+#initialize git repo
+
+git add file
+#add file to staging
+
+git status
+#view status of repo, including uncommitted changes
+
+git ll
+#view master branch
+
+git commit -m "message"
+#commit changes to repo with message
